@@ -1,5 +1,5 @@
 # Isometric Game In Pygame
 
-https://github.com/user-attachments/assets/1619a940-9248-4941-8fd5-3d7bd7920bc2
+![ezgif-7-b9f03d315c](https://github.com/user-attachments/assets/d574d35a-9390-489e-bc42-4850f2d57328)
 
  - Oogway Certified
