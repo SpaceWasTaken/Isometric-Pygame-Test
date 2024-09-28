@@ -7,7 +7,7 @@ WIDTH, LENGTH = 500, 500
 pygame.display.set_mode((WIDTH, LENGTH))
 
 font_img = load_image('data/entities/other/font.png')
-font7 = 'C:/Users/Sajid .kp/Desktop/coding/python/isometric/data/entities/other/7 Squared.ttf'
+font7 = '7 Squared.ttf'
 
 cursor_img = load_image('data/entities/other/cursor.png')
 
